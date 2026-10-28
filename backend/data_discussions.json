@@ -1,0 +1,91 @@
+[
+  {
+    "_id": "disc_601",
+    "courseId": "course_101",
+    "title": "Best practices for structuring controller files in Express?",
+    "content": "Hello everyone! When building a larger REST application, is it preferred to keep business logic in separate service files or inside the controllers? Looking for recommendations on maintaining testability.",
+    "authorId": "student_1",
+    "authorName": "Alex Johnson",
+    "authorRole": "student",
+    "authorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+    "createdAt": "2026-02-17T14:30:00.000Z",
+    "replies": [
+      {
+        "_id": "rep_701",
+        "authorId": "teacher_1",
+        "authorName": "Prof. Sarah Jenkins",
+        "authorRole": "teacher",
+        "authorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80",
+        "content": "Great question, Alex! In enterprise apps, separating routes -> controllers (handling req/res) -> service layer (business logic & rules) -> data store makes unit testing much cleaner without needing to mock Express objects.",
+        "createdAt": "2026-02-17T16:00:00.000Z"
+      },
+      {
+        "_id": "rep_702",
+        "authorId": "student_1",
+        "authorName": "Alex Johnson",
+        "authorRole": "student",
+        "authorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+        "content": "Thank you Professor! That makes total sense. I will modularize the assignment controller accordingly.",
+        "createdAt": "2026-02-17T16:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": "disc_602",
+    "courseId": "course_101",
+    "title": "JWT Secret and Token Expiration strategies",
+    "content": "What is the recommended token refresh strategy for single-page applications to ensure users are not abruptly logged out during prolonged sessions?",
+    "authorId": "student_1",
+    "authorName": "Alex Johnson",
+    "authorRole": "student",
+    "authorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+    "createdAt": "2026-02-23T11:00:00.000Z",
+    "replies": [
+      {
+        "_id": "rep_703",
+        "authorId": "teacher_1",
+        "authorName": "Prof. Sarah Jenkins",
+        "authorRole": "teacher",
+        "authorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80",
+        "content": "We typically pair short-lived access tokens (15-60m) with rotating refresh tokens stored in secure, HttpOnly cookies. We will cover this in Module 4!",
+        "createdAt": "2026-02-23T13:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": "disc_406",
+    "courseId": "course_106",
+    "authorId": "student_1",
+    "authorRole": "student",
+    "title": "Wireshark filters for detecting ARP poisoning and MITM attacks",
+    "content": "What are the most effective display filters in Wireshark to quickly isolate duplicate IP assignments and gratuitous ARP floods in a local switched subnet?",
+    "replies": [
+      {
+        "_id": "rep_406_1",
+        "authorId": "teacher_1",
+        "authorRole": "teacher",
+        "content": "Use \u0007rp.duplicate-address-frame and \u0007rp.opcode == 2 to spot reply floods. Also keep an eye on MAC address changes for default gateway entries.",
+        "createdAt": "2026-10-22T12:44:22.810Z"
+      }
+    ],
+    "createdAt": "2026-10-21T12:44:22.810Z"
+  },
+  {
+    "_id": "disc_407",
+    "courseId": "course_107",
+    "authorId": "student_1",
+    "authorRole": "student",
+    "title": "LoRA vs QLoRA: Memory reduction trade-offs during fine-tuning",
+    "content": "When fine-tuning on a 16GB VRAM GPU, does 4-bit quantization in QLoRA significantly degrade token output quality compared to standard 16-bit LoRA?",
+    "replies": [
+      {
+        "_id": "rep_407_1",
+        "authorId": "teacher_1",
+        "authorRole": "teacher",
+        "content": "In empirical benchmarks (like the QLoRA paper by Dettmers et al.), NF4 (NormalFloat4) achieves nearly identical perplexity to 16-bit LoRA while cutting memory usage by over 60%. Highly recommended for single-GPU setups!",
+        "createdAt": "2026-10-23T12:44:22.810Z"
+      }
+    ],
+    "createdAt": "2026-10-22T12:44:22.810Z"
+  }
+]

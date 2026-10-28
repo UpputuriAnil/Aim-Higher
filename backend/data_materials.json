@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "mat_501",
+    "courseId": "course_101",
+    "title": "Full-Stack Architecture & Syllabus Roadmap",
+    "type": "document",
+    "format": "PDF",
+    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "description": "Comprehensive 8-week curriculum breakdown, recommended reading list, and developer environment setup guide.",
+    "duration": "15 min read",
+    "uploadedBy": "teacher_1",
+    "createdAt": "2026-02-10T10:00:00.000Z"
+  },
+  {
+    "_id": "mat_502",
+    "courseId": "course_101",
+    "title": "REST API Design & Security Cheat Sheet",
+    "type": "document",
+    "format": "PDF",
+    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "description": "Quick reference guide for HTTP verbs, response codes, JWT handling, and input sanitation best practices.",
+    "duration": "10 min read",
+    "uploadedBy": "teacher_1",
+    "createdAt": "2026-02-12T11:00:00.000Z"
+  },
+  {
+    "_id": "mat_503",
+    "courseId": "course_101",
+    "title": "Lecture Slides: Modern React Component Patterns",
+    "type": "document",
+    "format": "PPT",
+    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "description": "Slide deck exploring container vs presentational components, custom hooks, and suspense boundaries.",
+    "duration": "35 slides",
+    "uploadedBy": "teacher_1",
+    "createdAt": "2026-02-15T14:00:00.000Z"
+  },
+  {
+    "_id": "mat_504",
+    "courseId": "course_102",
+    "title": "Figma Auto-Layout & Design Tokens Guide",
+    "type": "document",
+    "format": "PDF",
+    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "description": "Master component variants, auto-layout responsiveness, and standardized token naming conventions.",
+    "duration": "20 min read",
+    "uploadedBy": "teacher_1",
+    "createdAt": "2026-02-16T12:00:00.000Z"
+  },
+  {
+    "_id": "mat_306",
+    "title": "Ethical Hacking Fundamentals & Wireshark Cheatsheet",
+    "description": "Comprehensive network protocol analysis guide and packet inspection commands.",
+    "courseId": "course_106",
+    "teacherId": "teacher_1",
+    "fileType": "pdf",
+    "fileUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "fileName": "Ethical_Hacking_CheatSheet.pdf",
+    "fileSize": "3.4 MB",
+    "createdAt": "2026-10-24T12:44:22.809Z"
+  },
+  {
+    "_id": "mat_307",
+    "title": "Attention Mechanism & Transformer Architecture Slides",
+    "description": "Detailed vector diagrams breaking down Self-Attention, Multi-Head Attention, and Layer Normalization.",
+    "courseId": "course_107",
+    "teacherId": "teacher_1",
+    "fileType": "presentation",
+    "fileUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "fileName": "Transformer_Architecture_DeepDive.pptx",
+    "fileSize": "8.2 MB",
+    "createdAt": "2026-10-24T12:44:22.810Z"
+  },
+  {
+    "_id": "mat_308",
+    "title": "Flutter Widget Lifecycle & State Architecture Guide",
+    "description": "Best practices for organizing screens, widgets, providers, and clean repository layers.",
+    "courseId": "course_108",
+    "teacherId": "teacher_1",
+    "fileType": "pdf",
+    "fileUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "fileName": "Flutter_Architecture_Handbook.pdf",
+    "fileSize": "2.8 MB",
+    "createdAt": "2026-10-24T12:44:22.810Z"
+  }
+]

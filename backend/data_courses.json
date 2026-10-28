@@ -1,0 +1,360 @@
+[
+  {
+    "_id": "course_1792845161647_818h5z",
+    "title": "Cloud Architecture & DevOps 2026",
+    "description": "Master Docker, Kubernetes, and AWS deployment pipelines with industry standard DevOps practices.",
+    "duration": "10 weeks",
+    "teacherId": "teacher_1",
+    "category": "Cloud Computing",
+    "difficulty": "Advanced",
+    "price": 0,
+    "tags": [],
+    "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&auto=format&fit=crop&q=80",
+    "isPublished": true,
+    "publishedAt": "2026-10-24T12:32:41.647Z",
+    "isActive": true,
+    "enrolledStudents": [
+      {
+        "studentId": "student_1",
+        "enrolledAt": "2026-10-24T12:32:41.676Z",
+        "progress": 0
+      }
+    ],
+    "createdAt": "2026-10-24T12:32:41.647Z",
+    "updatedAt": "2026-10-24T12:32:41.677Z"
+  },
+  {
+    "_id": "course_101",
+    "title": "Full-Stack Web Development: React, Node.js & MongoDB",
+    "description": "Master modern full-stack web development from interactive component architectures with React 18 to scalable backend REST APIs with Express and Node.js. Learn database modeling, JWT authentication, and automated testing.",
+    "duration": "8 Weeks (64 Hours)",
+    "category": "Programming",
+    "difficulty": "Intermediate",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-02-10T08:00:00.000Z",
+    "isActive": true,
+    "tags": [
+      "React",
+      "NodeJS",
+      "Express",
+      "FullStack"
+    ],
+    "enrolledStudents": [
+      {
+        "studentId": "student_1",
+        "enrolledAt": "2026-02-12T10:00:00.000Z",
+        "progress": 65
+      },
+      {
+        "studentId": "4",
+        "enrolledAt": "2026-10-24T12:23:07.970Z",
+        "progress": 0
+      }
+    ],
+    "createdAt": "2026-02-10T08:00:00.000Z",
+    "updatedAt": "2026-10-24T12:23:07.971Z"
+  },
+  {
+    "_id": "course_102",
+    "title": "UI/UX Design Masterclass: Figma to Interactive Prototypes",
+    "description": "Learn the core principles of User Interface (UI) and User Experience (UX) design. Master user research, wireframing, color theory, design systems, and responsive prototype creation in Figma.",
+    "duration": "6 Weeks (40 Hours)",
+    "category": "Design",
+    "difficulty": "Beginner",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-02-15T09:00:00.000Z",
+    "isActive": true,
+    "tags": [
+      "UI",
+      "UX",
+      "Figma",
+      "ProductDesign"
+    ],
+    "enrolledStudents": [
+      {
+        "studentId": "student_1",
+        "enrolledAt": "2026-02-16T11:30:00.000Z",
+        "progress": 80
+      }
+    ],
+    "createdAt": "2026-02-15T09:00:00.000Z"
+  },
+  {
+    "_id": "course_103",
+    "title": "Data Science & Machine Learning with Python",
+    "description": "Comprehensive introduction to data analysis, statistical modeling, machine learning algorithms, and predictive modeling using Python, Pandas, NumPy, Scikit-Learn, and Matplotlib.",
+    "duration": "10 Weeks (80 Hours)",
+    "category": "Science",
+    "difficulty": "Advanced",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-02-20T10:00:00.000Z",
+    "isActive": true,
+    "tags": [
+      "Python",
+      "DataScience",
+      "MachineLearning",
+      "AI"
+    ],
+    "enrolledStudents": [
+      {
+        "studentId": "student_1",
+        "enrolledAt": "2026-02-22T14:00:00.000Z",
+        "progress": 45
+      }
+    ],
+    "createdAt": "2026-02-20T10:00:00.000Z"
+  },
+  {
+    "_id": "course_104",
+    "title": "Cloud Computing & DevOps: Docker, Kubernetes & AWS",
+    "description": "Understand cloud architecture, containerization with Docker, orchestration with Kubernetes, and automated CI/CD deployment pipelines on Amazon Web Services (AWS).",
+    "duration": "7 Weeks (50 Hours)",
+    "category": "Programming",
+    "difficulty": "Intermediate",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-02-25T11:00:00.000Z",
+    "isActive": true,
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Docker",
+      "AWS"
+    ],
+    "enrolledStudents": [],
+    "createdAt": "2026-02-25T11:00:00.000Z"
+  },
+  {
+    "_id": "course_105",
+    "title": "Digital Marketing Strategy & Growth Analytics",
+    "description": "Learn how to build high-converting growth funnels, search engine optimization (SEO), social media campaigns, content strategy, and conversion rate optimization with real-world analytics.",
+    "duration": "4 Weeks (30 Hours)",
+    "category": "Marketing",
+    "difficulty": "Beginner",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-03-01T12:00:00.000Z",
+    "isActive": true,
+    "tags": [
+      "Marketing",
+      "SEO",
+      "Growth",
+      "Analytics"
+    ],
+    "enrolledStudents": [
+      {
+        "studentId": "4",
+        "enrolledAt": "2026-10-24T11:37:25.304Z",
+        "progress": 0
+      }
+    ],
+    "createdAt": "2026-03-01T12:00:00.000Z",
+    "updatedAt": "2026-10-24T11:37:25.304Z"
+  },
+  {
+    "_id": "course_106",
+    "title": "Cybersecurity, Ethical Hacking & Defense Operations",
+    "description": "Learn professional penetration testing, network sniffing, cryptography, threat modeling, and defensive incident response. Build hands-on lab skills in Kali Linux, Wireshark, Metasploit, and OWASP Top 10 mitigation.",
+    "duration": "12 Weeks (96 Hours)",
+    "category": "Cybersecurity",
+    "difficulty": "Advanced",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-10-24T12:41:27.557Z",
+    "isActive": true,
+    "tags": [
+      "Cybersecurity",
+      "EthicalHacking",
+      "PenetrationTesting",
+      "NetworkSecurity",
+      "Linux"
+    ],
+    "enrolledStudents": [
+      {
+        "studentId": "student_1",
+        "enrolledAt": "2026-10-24T12:41:27.558Z",
+        "progress": 25
+      },
+      {
+        "studentId": "1",
+        "enrolledAt": "2026-10-24T12:41:27.558Z",
+        "progress": 10
+      }
+    ],
+    "createdAt": "2026-10-24T12:41:27.558Z"
+  },
+  {
+    "_id": "course_107",
+    "title": "Artificial Intelligence, Deep Learning & Transformers",
+    "description": "From backpropagation fundamentals to modern transformer architectures (GPT, BERT, Diffusion models). Implement computer vision with CNNs, NLP with attention mechanisms, and fine-tune open-source models using PyTorch & HuggingFace.",
+    "duration": "10 Weeks (80 Hours)",
+    "category": "Artificial Intelligence",
+    "difficulty": "Advanced",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-10-24T12:41:27.558Z",
+    "isActive": true,
+    "tags": [
+      "AI",
+      "DeepLearning",
+      "PyTorch",
+      "Transformers",
+      "NLP",
+      "ComputerVision"
+    ],
+    "enrolledStudents": [
+      {
+        "studentId": "student_1",
+        "enrolledAt": "2026-10-24T12:41:27.558Z",
+        "progress": 40
+      }
+    ],
+    "createdAt": "2026-10-24T12:41:27.558Z"
+  },
+  {
+    "_id": "course_108",
+    "title": "Mobile App Development with Flutter & Dart: iOS & Android",
+    "description": "Build beautiful, natively compiled applications for iOS and Android from a single codebase. Master reactive state management (Bloc, Provider), REST API integration, local SQLite persistence, animations, and App Store publishing.",
+    "duration": "8 Weeks (60 Hours)",
+    "category": "Mobile Development",
+    "difficulty": "Intermediate",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-10-24T12:41:27.558Z",
+    "isActive": true,
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Mobile",
+      "iOS",
+      "Android",
+      "CrossPlatform"
+    ],
+    "enrolledStudents": [
+      {
+        "studentId": "student_1",
+        "enrolledAt": "2026-10-24T12:41:27.558Z",
+        "progress": 15
+      },
+      {
+        "studentId": "1",
+        "enrolledAt": "2026-10-24T12:41:27.558Z",
+        "progress": 5
+      }
+    ],
+    "createdAt": "2026-10-24T12:41:27.558Z"
+  },
+  {
+    "_id": "course_109",
+    "title": "Enterprise DevOps, CI/CD Pipelines & Kubernetes",
+    "description": "Master containerization and automated deployments at enterprise scale. Learn Docker multi-stage builds, Helm charts, Kubernetes cluster management, GitHub Actions pipelines, Prometheus monitoring, and Terraform IaC.",
+    "duration": "8 Weeks (64 Hours)",
+    "category": "DevOps",
+    "difficulty": "Intermediate",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-10-24T12:41:27.558Z",
+    "isActive": true,
+    "tags": [
+      "DevOps",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Terraform",
+      "Cloud"
+    ],
+    "enrolledStudents": [
+      {
+        "studentId": "1",
+        "enrolledAt": "2026-10-24T12:41:27.558Z",
+        "progress": 20
+      },
+      {
+        "studentId": "4",
+        "enrolledAt": "2026-10-24T12:41:27.558Z",
+        "progress": 10
+      }
+    ],
+    "createdAt": "2026-10-24T12:41:27.558Z"
+  },
+  {
+    "_id": "course_110",
+    "title": "Product Management & Agile Leadership: From Idea to Scale",
+    "description": "Learn the end-to-end product lifecycle from top tech leaders. Master market opportunity validation, competitive moats, user research, wireframing, sprint planning with Agile/Scrum, and product analytics using Mixpanel and Amplitude.",
+    "duration": "6 Weeks (45 Hours)",
+    "category": "Business",
+    "difficulty": "Beginner",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-10-24T12:41:27.558Z",
+    "isActive": true,
+    "tags": [
+      "ProductManagement",
+      "Agile",
+      "Scrum",
+      "Strategy",
+      "UserResearch"
+    ],
+    "enrolledStudents": [
+      {
+        "studentId": "student_1",
+        "enrolledAt": "2026-10-24T12:41:27.558Z",
+        "progress": 70
+      }
+    ],
+    "createdAt": "2026-10-24T12:41:27.558Z"
+  },
+  {
+    "_id": "course_111",
+    "title": "Blockchain, Smart Contracts & Web3 DApps Architecture",
+    "description": "Step into the decentralized web. Write secure Ethereum smart contracts using Solidity and Hardhat, build responsive Web3 frontends with Ethers.js and React, and audit security vulnerabilities in DeFi protocols.",
+    "duration": "9 Weeks (72 Hours)",
+    "category": "Programming",
+    "difficulty": "Advanced",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&auto=format&fit=crop&q=80",
+    "teacherId": "teacher_1",
+    "isPublished": true,
+    "publishedAt": "2026-10-24T12:41:27.558Z",
+    "isActive": true,
+    "tags": [
+      "Blockchain",
+      "Web3",
+      "Solidity",
+      "Ethereum",
+      "SmartContracts",
+      "Crypto"
+    ],
+    "enrolledStudents": [
+      {
+        "studentId": "4",
+        "enrolledAt": "2026-10-24T12:41:27.558Z",
+        "progress": 50
+      }
+    ],
+    "createdAt": "2026-10-24T12:41:27.558Z"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "_id": "sub_1792845161735_6d53r6",
+    "assignmentId": "assign_1792845161718_on8x4s",
+    "studentId": "student_1",
+    "textContent": "Completed the API gateway with reverse proxying, JWT token verification, and Redis rate limiting. GitHub repo link: https://github.com/alex-johnson/api-gateway",
+    "attachments": [],
+    "isLate": false,
+    "submittedAt": "2026-10-24T12:32:41.735Z",
+    "status": "graded",
+    "grade": {
+      "marks": 96,
+      "maxMarks": 100,
+      "percentage": 96,
+      "gradedAt": "2026-10-24T12:32:41.799Z",
+      "gradedBy": "teacher_1"
+    },
+    "feedback": "Outstanding architecture and clean async/await patterns. Great adherence to clean code standards!",
+    "remarks": ""
+  },
+  {
+    "_id": "sub_301",
+    "assignmentId": "assign_201",
+    "studentId": "student_1",
+    "submittedAt": "2026-02-18T15:30:00.000Z",
+    "isLate": false,
+    "textContent": "Here is my GitHub repository with the Express REST API implementation: https://github.com/alex-johnson/express-api-starter\n\nFeatures implemented:\n- Complete CRUD with auth middleware\n- Rate limiting & input validation\n- Postman collection included in /docs",
+    "attachments": [
+      {
+        "filename": "api_architecture.pdf",
+        "originalName": "API_Architecture.pdf",
+        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+        "size": 102400
+      }
+    ],
+    "status": "graded",
+    "grade": {
+      "marks": 95,
+      "maxMarks": 100,
+      "percentage": 95,
+      "gradedAt": "2026-02-19T11:00:00.000Z",
+      "gradedBy": "teacher_1"
+    },
+    "feedback": "Exceptional work, Alex! Your modular controller architecture and clear error handling responses are production-ready. Keep it up!",
+    "remarks": "Top submission in cohort."
+  },
+  {
+    "_id": "sub_302",
+    "assignmentId": "assign_203",
+    "studentId": "student_1",
+    "submittedAt": "2026-02-21T18:00:00.000Z",
+    "isLate": false,
+    "textContent": "Figma Prototype Link: https://figma.com/proto/demo-ecommerce-checkout\n\nDesigned complete checkout flow with micro-interactions, dark mode variants, and responsive auto-layout components.",
+    "attachments": [
+      {
+        "filename": "design_system_tokens.pdf",
+        "originalName": "Design_System_Tokens.pdf",
+        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+        "size": 154800
+      }
+    ],
+    "status": "graded",
+    "grade": {
+      "marks": 98,
+      "maxMarks": 100,
+      "percentage": 98,
+      "gradedAt": "2026-02-22T09:30:00.000Z",
+      "gradedBy": "teacher_1"
+    },
+    "feedback": "Outstanding attention to typographic scale, contrast ratios, and intuitive user friction reduction at checkout. Brilliant work!",
+    "remarks": "Perfect execution."
+  },
+  {
+    "_id": "sub_303",
+    "assignmentId": "assign_204",
+    "studentId": "student_1",
+    "submittedAt": "2026-02-24T14:20:00.000Z",
+    "isLate": false,
+    "textContent": "Attached Jupyter notebook export with comprehensive data cleaning, Pearson correlations, and Seaborn box plots highlighting customer attrition factors.",
+    "attachments": [
+      {
+        "filename": "churn_analysis_eda.pdf",
+        "originalName": "Churn_Analysis_EDA.pdf",
+        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+        "size": 312000
+      }
+    ],
+    "status": "graded",
+    "grade": {
+      "marks": 89,
+      "maxMarks": 100,
+      "percentage": 89,
+      "gradedAt": "2026-02-25T16:00:00.000Z",
+      "gradedBy": "teacher_1"
+    },
+    "feedback": "Great exploratory insights and thorough cleaning pipeline. To improve, try adding violin plots or pairplots for multimodal distributions.",
+    "remarks": "Solid analysis."
+  },
+  {
+    "_id": "sub_304",
+    "assignmentId": "assign_202",
+    "studentId": "student_1",
+    "submittedAt": "2026-10-24T05:34:37.042Z",
+    "isLate": false,
+    "textContent": "Dynamic task board completed with column dragging, local storage persistence, and tag filtering.\nLive Demo: https://taskboard-demo.aimhigher.dev",
+    "attachments": [],
+    "status": "submitted"
+  }
+]

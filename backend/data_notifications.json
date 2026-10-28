@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "notif_1792845161804_m2e2cr",
+    "userId": "student_1",
+    "title": "Assignment Graded",
+    "message": "Your submission for \"Microservices Gateway Implementation\" has been graded: 96/100 (A).",
+    "type": "grade",
+    "link": "/student/grades",
+    "isRead": false,
+    "createdAt": "2026-10-24T12:32:41.804Z"
+  },
+  {
+    "_id": "notif_1792845161744_d33q0t",
+    "userId": "teacher_1",
+    "title": "New Assignment Submission",
+    "message": "Alex Johnson submitted work for \"Microservices Gateway Implementation\".",
+    "type": "submission",
+    "link": "/teacher/grading",
+    "isRead": false,
+    "createdAt": "2026-10-24T12:32:41.744Z"
+  },
+  {
+    "_id": "notif_1792845161721_jtqbvy",
+    "userId": "student_1",
+    "title": "New Assignment Added",
+    "message": "New assignment \"Microservices Gateway Implementation\" was posted in Cloud Architecture & DevOps 2026.",
+    "type": "assignment",
+    "link": "/student/assignments",
+    "isRead": false,
+    "createdAt": "2026-10-24T12:32:41.721Z"
+  },
+  {
+    "_id": "notif_1792845161683_654mjp",
+    "userId": "teacher_1",
+    "title": "New Student Enrollment",
+    "message": "Alex Johnson enrolled in \"Cloud Architecture & DevOps 2026\".",
+    "type": "enrollment",
+    "link": "/teacher/courses",
+    "isRead": false,
+    "createdAt": "2026-10-24T12:32:41.683Z"
+  },
+  {
+    "_id": "notif_1792845161681_kky5ki",
+    "userId": "student_1",
+    "title": "Enrolled Successfully",
+    "message": "You have enrolled in \"Cloud Architecture & DevOps 2026\". Start exploring the materials and assignments!",
+    "type": "enrollment",
+    "link": "/student/courses/course_1792845161647_818h5z",
+    "isRead": false,
+    "createdAt": "2026-10-24T12:32:41.681Z"
+  },
+  {
+    "_id": "notif_1792844756331_ozhxs1",
+    "userId": "4",
+    "title": "New Assignment Added",
+    "message": "New assignment \"Microservices Gateway Implementation\" was posted in Full-Stack Web Development: React, Node.js & MongoDB.",
+    "type": "assignment",
+    "link": "/student/assignments",
+    "isRead": true,
+    "createdAt": "2026-10-24T12:25:56.331Z"
+  },
+  {
+    "_id": "notif_1792844756328_h05356",
+    "userId": "student_1",
+    "title": "New Assignment Added",
+    "message": "New assignment \"Microservices Gateway Implementation\" was posted in Full-Stack Web Development: React, Node.js & MongoDB.",
+    "type": "assignment",
+    "link": "/student/assignments",
+    "isRead": false,
+    "createdAt": "2026-10-24T12:25:56.328Z"
+  },
+  {
+    "_id": "notif_1792844587983_i6mr2x",
+    "userId": "teacher_1",
+    "title": "New Student Enrollment",
+    "message": "Anil enrolled in \"Full-Stack Web Development: React, Node.js & MongoDB\".",
+    "type": "enrollment",
+    "link": "/teacher/courses",
+    "isRead": false,
+    "createdAt": "2026-10-24T12:23:07.983Z"
+  },
+  {
+    "_id": "notif_1792844587978_popxyo",
+    "userId": "4",
+    "title": "Enrolled Successfully",
+    "message": "You have enrolled in \"Full-Stack Web Development: React, Node.js & MongoDB\". Start exploring the materials and assignments!",
+    "type": "enrollment",
+    "link": "/student/courses/course_101",
+    "isRead": true,
+    "createdAt": "2026-10-24T12:23:07.978Z"
+  },
+  {
+    "_id": "notif_1792841845316_kukezh",
+    "userId": "teacher_1",
+    "title": "New Student Enrollment",
+    "message": "Anil enrolled in \"Digital Marketing Strategy & Growth Analytics\".",
+    "type": "enrollment",
+    "link": "/teacher/courses",
+    "isRead": false,
+    "createdAt": "2026-10-24T11:37:25.316Z"
+  },
+  {
+    "_id": "notif_1792841845312_0rku1i",
+    "userId": "4",
+    "title": "Enrolled Successfully",
+    "message": "You have enrolled in \"Digital Marketing Strategy & Growth Analytics\". Start exploring the materials and assignments!",
+    "type": "enrollment",
+    "link": "/student/courses/course_105",
+    "isRead": true,
+    "createdAt": "2026-10-24T11:37:25.312Z"
+  },
+  {
+    "_id": "notif_801",
+    "userId": "student_1",
+    "title": "Assignment Graded",
+    "message": "Your assignment \"Build a Responsive REST API with Express\" received a grade of 95/100 (A).",
+    "type": "grade",
+    "link": "/student/grades",
+    "isRead": false,
+    "createdAt": "2026-02-19T11:05:00.000Z"
+  },
+  {
+    "_id": "notif_802",
+    "userId": "student_1",
+    "title": "New Assignment Published",
+    "message": "Prof. Sarah Jenkins posted a new assignment: \"React State Management & Dynamic Task Board\".",
+    "type": "assignment",
+    "link": "/student/assignments",
+    "isRead": false,
+    "createdAt": "2026-02-20T10:05:00.000Z"
+  },
+  {
+    "_id": "notif_803",
+    "userId": "student_1",
+    "title": "Discussion Reply",
+    "message": "Prof. Sarah Jenkins replied to your discussion post \"Best practices for structuring controller files\".",
+    "type": "discussion",
+    "link": "/student/courses/course_101",
+    "isRead": true,
+    "createdAt": "2026-02-17T16:02:00.000Z"
+  },
+  {
+    "_id": "notif_804",
+    "userId": "teacher_1",
+    "title": "New Assignment Submission",
+    "message": "Alex Johnson submitted work for \"React State Management & Dynamic Task Board\".",
+    "type": "submission",
+    "link": "/teacher/grading",
+    "isRead": false,
+    "createdAt": "2026-10-24T05:34:37.045Z"
+  }
+]

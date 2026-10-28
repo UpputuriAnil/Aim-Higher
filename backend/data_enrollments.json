@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "enr_101",
+    "studentId": "student_1",
+    "courseId": "course_101",
+    "enrolledAt": "2026-02-12T10:00:00.000Z",
+    "status": "active",
+    "progress": 65,
+    "lastAccessedAt": "2026-10-24T11:34:37.040Z",
+    "isActive": true
+  },
+  {
+    "_id": "enr_102",
+    "studentId": "student_1",
+    "courseId": "course_102",
+    "enrolledAt": "2026-02-16T11:30:00.000Z",
+    "status": "active",
+    "progress": 80,
+    "lastAccessedAt": "2026-10-24T11:34:37.040Z",
+    "isActive": true
+  },
+  {
+    "_id": "enr_103",
+    "studentId": "student_1",
+    "courseId": "course_103",
+    "enrolledAt": "2026-02-22T14:00:00.000Z",
+    "status": "active",
+    "progress": 45,
+    "lastAccessedAt": "2026-10-24T11:34:37.040Z",
+    "isActive": true
+  },
+  {
+    "_id": "enr_1792841845301_uxv705",
+    "studentId": "4",
+    "courseId": "course_105",
+    "enrolledAt": "2026-10-24T11:37:25.301Z",
+    "status": "active",
+    "progress": 0,
+    "lastAccessedAt": "2026-10-24T11:37:25.301Z",
+    "isActive": true
+  },
+  {
+    "_id": "enr_1792844587967_s4dvze",
+    "studentId": "4",
+    "courseId": "course_101",
+    "enrolledAt": "2026-10-24T12:23:07.968Z",
+    "status": "active",
+    "progress": 0,
+    "lastAccessedAt": "2026-10-24T12:23:07.968Z",
+    "isActive": true
+  },
+  {
+    "_id": "enr_1792845161674_6phvel",
+    "studentId": "student_1",
+    "courseId": "course_1792845161647_818h5z",
+    "enrolledAt": "2026-10-24T12:32:41.674Z",
+    "status": "active",
+    "progress": 0,
+    "lastAccessedAt": "2026-10-24T12:32:41.674Z",
+    "isActive": true
+  },
+  {
+    "_id": "enr_106_1",
+    "studentId": "student_1",
+    "courseId": "course_106",
+    "enrolledAt": "2026-10-19T12:44:22.807Z",
+    "status": "active",
+    "progress": 25,
+    "lastAccessedAt": "2026-10-24T12:44:22.808Z",
+    "isActive": true
+  },
+  {
+    "_id": "enr_106_2",
+    "studentId": "1",
+    "courseId": "course_106",
+    "enrolledAt": "2026-10-21T12:44:22.808Z",
+    "status": "active",
+    "progress": 10,
+    "lastAccessedAt": "2026-10-24T12:44:22.808Z",
+    "isActive": true
+  },
+  {
+    "_id": "enr_107_1",
+    "studentId": "student_1",
+    "courseId": "course_107",
+    "enrolledAt": "2026-10-16T12:44:22.808Z",
+    "status": "active",
+    "progress": 40,
+    "lastAccessedAt": "2026-10-24T12:44:22.808Z",
+    "isActive": true
+  },
+  {
+    "_id": "enr_108_1",
+    "studentId": "1",
+    "courseId": "course_108",
+    "enrolledAt": "2026-10-20T12:44:22.808Z",
+    "status": "active",
+    "progress": 15,
+    "lastAccessedAt": "2026-10-24T12:44:22.808Z",
+    "isActive": true
+  },
+  {
+    "_id": "enr_110_1",
+    "studentId": "student_1",
+    "courseId": "course_110",
+    "enrolledAt": "2026-10-12T12:44:22.808Z",
+    "status": "active",
+    "progress": 70,
+    "lastAccessedAt": "2026-10-24T12:44:22.808Z",
+    "isActive": true
+  }
+]

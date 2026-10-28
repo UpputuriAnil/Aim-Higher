@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "1",
+    "name": "Mahesh",
+    "email": "maheshsomu@gmail.com",
+    "password": "$2a$10$I2yhsTx5gv6AlPmj/NKchuTnqXaPU2.mWnmGhjrx5A4VdeqvaGL5W",
+    "role": "student",
+    "isActive": true,
+    "createdAt": "2026-10-11T13:23:30.624Z",
+    "lastLogin": "2026-10-11T13:23:49.417Z",
+    "enrolledCourses": [],
+    "createdCourses": []
+  },
+  {
+    "_id": "1",
+    "name": "Mahesh",
+    "email": "mahesh@gmail.com",
+    "password": "$2a$10$C7eu7z63MHCX43v7nGJMj.TL72RsKXPQGKLBfJ9IXysiWCnJtH0H6",
+    "role": "student",
+    "bio": "",
+    "createdAt": "2026-10-11T13:27:39.582Z",
+    "lastLogin": "2026-10-12T14:21:27.331Z",
+    "isActive": true,
+    "enrolledCourses": [],
+    "createdCourses": []
+  },
+  {
+    "_id": "2",
+    "name": "Abcd Efgh",
+    "email": "anilupputuri000@gmail.com",
+    "password": "$2a$10$01UKohtRiubRYcd5D/mGJu7fmbMD654I1YbHzkO4pgQ.JArqiA1nS",
+    "role": "teacher",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKXYE4vOJ_ws5JvsjmaQRIeD5ZNhrOyfRrofKIMTDCE-mm49vM=s96-c",
+    "bio": "Member since 2026",
+    "isGoogleAuth": true,
+    "createdAt": "2026-10-12T13:59:57.493Z",
+    "lastLogin": "2026-10-12T13:59:57.495Z",
+    "isActive": true,
+    "enrolledCourses": [],
+    "createdCourses": []
+  },
+  {
+    "_id": "3",
+    "name": "ANIL UPPUTURI",
+    "email": "anilupputuri.ai@gmail.com",
+    "password": "$2a$10$masB29FVFAj2Hc5mL/p2LeGU8hZp9.s86/NB2c55XbiJZsB7/aBTO",
+    "role": "student",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJFEnwhBdlP-G2MudCiyxSZ5q_OwMXH72LsdG-3P4B6cn6h5Fw=s96-c",
+    "bio": "Member since 2026",
+    "isGoogleAuth": true,
+    "createdAt": "2026-10-12T14:00:44.158Z",
+    "lastLogin": "2026-10-12T14:00:44.159Z",
+    "isActive": true,
+    "enrolledCourses": [],
+    "createdCourses": []
+  },
+  {
+    "_id": "4",
+    "name": "Anil",
+    "email": "anilupputuri00@gmail.com",
+    "password": "$2a$10$m/VEtU8h.1f4m3v1/N0W/.bzsvV4g0PEkWEIeKX4YrIh1gDZoMQmC",
+    "role": "student",
+    "bio": "",
+    "createdAt": "2026-10-12T14:02:52.382Z",
+    "lastLogin": "2026-10-24T11:19:47.657Z",
+    "isActive": true,
+    "enrolledCourses": [
+      "course_105",
+      "course_101"
+    ],
+    "createdCourses": []
+  },
+  {
+    "_id": "5",
+    "name": "Uma Vyshnavi",
+    "email": "vyshuu20@gmail.com",
+    "password": "$2a$10$cMLDAkHvR2cTcOeuA.JLrerurCLpaQ.69Xwyaj/pFVZDehvAJcRCy",
+    "role": "teacher",
+    "bio": "",
+    "createdAt": "2026-10-12T14:22:22.386Z",
+    "lastLogin": "2026-10-13T12:26:54.249Z",
+    "isActive": true,
+    "enrolledCourses": [],
+    "createdCourses": []
+  },
+  {
+    "_id": "teacher_1",
+    "name": "Prof. Sarah Jenkins",
+    "email": "teacher@aimhigher.com",
+    "password": "$2a$10$ips3tOQYU5eSYlsodrym1eWCJbK3sGj9wxlaMr2OsfL3qx3lAyLHK",
+    "role": "teacher",
+    "bio": "Senior Professor of Software Engineering with 12+ years of industry experience at leading tech companies.",
+    "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80",
+    "isActive": true,
+    "createdAt": "2026-01-15T09:00:00.000Z",
+    "enrolledCourses": [],
+    "createdCourses": [
+      "course_1792845161647_818h5z"
+    ]
+  },
+  {
+    "_id": "student_1",
+    "name": "Alex Johnson",
+    "email": "student@aimhigher.com",
+    "password": "$2a$10$/AEtqBBfd7c2ETrrJpcJYuVcmXkd4jbZWgqSvVJQBHYUYZewP6nR2",
+    "role": "student",
+    "bio": "Aspiring Full-Stack Software Engineer & UI/UX enthusiast.",
+    "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+    "isActive": true,
+    "createdAt": "2026-02-01T10:30:00.000Z",
+    "enrolledCourses": [
+      "course_1792845161647_818h5z"
+    ],
+    "createdCourses": []
+  }
+]

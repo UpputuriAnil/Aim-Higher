@@ -1,0 +1,24 @@
+{
+  "name": "lms-project",
+  "version": "1.0.0",
+  "description": "Learning Management System with Student and Teacher Authentication",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": [
+    "LMS",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

@@ -1,0 +1,212 @@
+/* Custom CSS for LMS Platform */
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.main-content {
+  min-height: calc(100vh - 76px);
+}
+
+.gradient-bg {
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 50%, #667eea 100%);
+}
+
+/* Custom utility classes */
+.brand-title {
+  background: linear-gradient(135deg, #0d47a1 0%, #1976d2 60%, #00b0ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.card-hover {
+  transition: all 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.btn-gradient {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  color: white;
+}
+
+.btn-gradient:hover {
+  background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+  color: white;
+}
+
+/* Loading states */
+.loading-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+/* Modern High-Contrast Footer styles */
+footer {
+  background: #0f172a !important; /* Deep modern slate navy */
+  color: #e2e8f0 !important;
+}
+
+footer h5, footer h6 {
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.5px;
+}
+
+footer .footer-desc {
+  color: #cbd5e1 !important;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+footer .footer-link,
+footer .nav-link {
+  color: #cbd5e1 !important;
+  text-decoration: none;
+  background: none !important;
+  padding: 4px 0 !important;
+  font-size: 14.5px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  display: inline-block;
+}
+
+footer .footer-link:hover,
+footer .nav-link:hover {
+  color: #38bdf8 !important; /* Vibrant sky blue on hover */
+  transform: translateX(3px);
+  text-decoration: none;
+}
+
+footer .footer-contact-item {
+  color: #e2e8f0 !important;
+  font-size: 14px;
+}
+
+footer .social-icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #ffffff !important;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+footer .social-icon-btn:hover {
+  background: #2563eb;
+  color: #ffffff !important;
+  transform: translateY(-2px);
+}
+
+footer .footer-copyright {
+  color: #94a3b8 !important;
+  font-size: 13.5px;
+}
+
+footer .footer-bottom-link {
+  color: #cbd5e1 !important;
+  font-size: 13.5px;
+  transition: color 0.2s ease;
+}
+
+footer .footer-bottom-link:hover {
+  color: #38bdf8 !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .main-content {
+    padding-top: 60px;
+  }
+}
+
+/* Authentic Google Button and Auth Divider */
+.auth-divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 1.25rem 0;
+}
+
+.auth-divider::before,
+.auth-divider::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.auth-divider span {
+  padding: 0 0.85rem;
+  font-size: 0.78rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #94a3b8;
+}
+
+.btn-google {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  width: 100%;
+  padding: 11px 16px;
+  background-color: #ffffff;
+  color: #3c4043;
+  border: 1.5px solid #dadce0;
+  border-radius: 12px;
+  font-size: 14.5px;
+  font-weight: 500;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: 0 1px 2px rgba(60, 64, 67, 0.08);
+  transition: all 0.2s cubic-bezier(0.2, 0, 0, 1);
+}
+
+.btn-google:hover:not(:disabled) {
+  background-color: #f8fafc;
+  border-color: #c4c7c5;
+  color: #202124;
+  box-shadow: 0 2px 6px rgba(60, 64, 67, 0.16);
+  transform: translateY(-1px);
+}
+
+.btn-google:active:not(:disabled) {
+  background-color: #f1f3f4;
+  box-shadow: 0 1px 2px rgba(60, 64, 67, 0.12);
+  transform: translateY(0);
+}
+
+.btn-google:focus-visible {
+  outline: none;
+  border-color: #1a73e8;
+  box-shadow: 0 0 0 3px rgba(66, 133, 244, 0.25);
+}
+
+.btn-google:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
